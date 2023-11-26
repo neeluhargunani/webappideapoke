@@ -142,27 +142,30 @@ left: 2%;
   flex-direction:column;
  width:300px;
  left: 0;
+  top:2%:
+}
+@media only screen and (min-width:728px){
+ 
+ left: 2%;
 
 }
-
   @media only screen and (min-width:1000px){
     flex-direction:row;
  width:550px;
- top:55%;
+ top:58%;
       }
       @media only screen and (min-width:1200px){
-      
-    
-     top:60%;
+       
+     top:63%;
           }
   @media only screen and (min-width:1400px){
         
-        width: 650px;
+        width: 600px;
         top:65%;
         }
         @media only screen and (min-width:1600px){
         
-          width: 650px;
+          width: 600px;
           top:70%;
           }
 `;
