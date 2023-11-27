@@ -15,8 +15,9 @@ import {
 
 } from './Footer.styles';
 import FooterImage from "../../assets/FooterLogo.svg";
-import PhoneIco from "../../assets/PhoneIcon.svg";
-import ChatIco from "../../assets/ChatIcon.svg"
+import { BiChat } from "react-icons/bi";
+import { BiPhone } from "react-icons/bi";
+import { BiSupport } from "react-icons/bi";
 import { Footerdata } from '../Clientdata/Data';
 function Footer() {
   return (
@@ -29,9 +30,9 @@ function Footer() {
                       
                       <FooterLinks>
                       <FooterLinkTitle><LogoImg><Img src= {FooterImage}  alt="footer Logo"/></LogoImg></FooterLinkTitle>
-                      <FooterLinkTop to='/'><span className='spanText'><img src={PhoneIco} alt="phone"/></span><span className='spanText'>+1 (800) 430-8380</span></FooterLinkTop>
-                      <FooterLinkTop to='/'><span ><img src={ChatIco} alt="Chat"/></span><span>Chat now</span> </FooterLinkTop>
-                      <FooterLinkTop to='/'><span>@</span><span>support@puffy.com</span></FooterLinkTop>
+                      <FooterLinkTop to='/'><span className='spanText'><BiPhone/></span><span className='spanText'>+1 (800) 430-8380</span></FooterLinkTop>
+                      <FooterLinkTop to='/'><span className='spanText'><BiChat/></span><span>Chat now</span> </FooterLinkTop>
+                      <FooterLinkTop to='/'><span className='spanText'><BiSupport/></span><span>support@puffy.com</span></FooterLinkTop>
                      
                           </FooterLinks>
                         

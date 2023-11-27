@@ -76,7 +76,7 @@ align-items: center;
     width: 100%;
     height: 100vh;
     position: absolute;
-    top: 61px;
+    top: 80px;
     left: ${({click}) => click ? '0' : '-120%'};
     background-color: rgba(0, 0, 0, 0.9);
     transition: all .5s ease;
