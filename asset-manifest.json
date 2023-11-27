@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webappideapoke/static/css/main.bc817af9.css",
-    "main.js": "/webappideapoke/static/js/main.90da4e39.js",
+    "main.js": "/webappideapoke/static/js/main.b7e4cf09.js",
     "static/media/heroban.png": "/webappideapoke/static/media/heroban.9ce449018d1acf95f3d2.png",
     "static/media/puffy_royal.png": "/webappideapoke/static/media/puffy_royal.e13c40f84722106405e9.png",
     "static/media/puffy_lux.png": "/webappideapoke/static/media/puffy_lux.b525c5ff32227237a30f.png",
@@ -15,17 +15,15 @@
     "static/media/FooterLogo.svg": "/webappideapoke/static/media/FooterLogo.33cbf1afd66c9c352c74ac95aadf7085.svg",
     "static/media/Logo.svg": "/webappideapoke/static/media/Logo.b79cd103540612905f786314b11509be.svg",
     "static/media/People.svg": "/webappideapoke/static/media/People.b9ceff4a07f866604e273e76aeb1a923.svg",
-    "static/media/PhoneIcon.svg": "/webappideapoke/static/media/PhoneIcon.e1af7d2c09c32d49c7a69788ce983e63.svg",
     "static/media/Health.svg": "/webappideapoke/static/media/Health.49efe447abe5aa86a7617fe8fd28b799.svg",
     "static/media/HGTV.svg": "/webappideapoke/static/media/HGTV.74d615e548cd9a67b0648e9096bc873c.svg",
-    "static/media/ChatIcon.svg": "/webappideapoke/static/media/ChatIcon.eea9726d4be0b400599601fb774498cc.svg",
     "static/media/CNet.svg": "/webappideapoke/static/media/CNet.eb55d65f7526e97a3a7095a7a92a28c6.svg",
     "index.html": "/webappideapoke/index.html",
     "main.bc817af9.css.map": "/webappideapoke/static/css/main.bc817af9.css.map",
-    "main.90da4e39.js.map": "/webappideapoke/static/js/main.90da4e39.js.map"
+    "main.b7e4cf09.js.map": "/webappideapoke/static/js/main.b7e4cf09.js.map"
   },
   "entrypoints": [
     "static/css/main.bc817af9.css",
-    "static/js/main.90da4e39.js"
+    "static/js/main.b7e4cf09.js"
   ]
 }
