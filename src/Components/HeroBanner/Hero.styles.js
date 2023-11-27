@@ -158,18 +158,25 @@ left: 2%;
  
 }
 @media only screen and (min-width:768px){
- 
- left: 2%;
+  width:300px;
+ left: 0%;
+
+}
+@media only screen and (min-width:900px){
+  
+ left: 5%;
 
 }
   @media only screen and (min-width:1000px){
     flex-direction:row;
  width:550px;
  top:58%;
+ left: 2%;
       }
       @media only screen and (min-width:1200px){
         width:510px;
      top:63%;
+ left: 3%;
           }
   @media only screen and (min-width:1400px){
         
