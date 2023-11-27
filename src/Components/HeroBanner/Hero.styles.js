@@ -157,6 +157,12 @@ left: 2%;
  left: 5rem;
  
 }
+@media only screen and (min-width:600px){
+
+  width:400px;
+  left: 5rem;
+  
+ }
 @media only screen and (min-width:768px){
   width:300px;
  left: 0%;
