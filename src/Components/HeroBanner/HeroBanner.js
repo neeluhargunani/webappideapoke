@@ -13,7 +13,7 @@ import {
 
 const HeroBanner = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date('2023-11-30') - +new Date();
+    const difference = +new Date('2025-12-30') - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
